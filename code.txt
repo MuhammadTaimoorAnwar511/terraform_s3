@@ -1,0 +1,17 @@
+main.tf:
+
+==
+output.tf:
+
+==
+provider.tf:
+
+==
+variable.tf:
+
+==
+terraform.tfvars:
+
+==
+bucket_policy.tf:
+==
